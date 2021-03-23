@@ -1,0 +1,12 @@
+﻿  18l-1097.cpp
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1116): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1122): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1130): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1137): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1144): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1156): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1162): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1170): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1177): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+c:\users\nabee\desktop\oop\projects\project 1\l18-1097\18l-1097.cpp(1184): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+  finaloop.vcxproj -> C:\Users\nabee\Desktop\OOP\PROJECTS\PROJECT 1\l18-1097\x64\Debug\finaloop.exe
